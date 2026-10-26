@@ -2,7 +2,7 @@
 
 <table width="100%">
 <tr>
-<td width="64%" valign="middle">
+<td width="100%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · kenzo47</sub></p>
 <h1>Kenzo Wijnants</h1>
 <h2>Backend or systems engineer</h2>
@@ -10,9 +10,6 @@
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Belgium · Building at Reboot-IT / hexel</sub></p>
 <p><a href="https://github.com/kenzo47">GitHub</a> &nbsp;·&nbsp; <a href="https://www.hexel.be">Website</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/1367208?u=15d360a4e69208146e8806fc80dc3c2b9d3b631c&amp;v=4" width="180" alt="Kenzo Wijnants GitHub avatar" />
 </td>
 </tr>
 </table>
